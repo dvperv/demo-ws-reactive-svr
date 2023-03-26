@@ -1,4 +1,4 @@
-package org.dp.demowsreactivesvr;
+package org.dp.demowsreactivesvr.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
